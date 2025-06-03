@@ -100,25 +100,25 @@ button.top {
     margin-left: 97.5%;
 }
 
-abschnitt1 {
+section.rezept {
     flex-direction: row;
     display: flex;
 }
 
-rezept {
+article.rezept {
     flex-basis: 70%;
 }
 
-weitere {
+article.weitere {
     flex-basis: 30%;
 }
 
-abschnitt2 {
+section.overview {
     flex-direction: row;
     display: flex;
 }
 
-element1 {
+section.overview_icon {
     margin-right: 20px;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
@@ -128,15 +128,15 @@ element1 {
 }
 
 
-abschnitt3 {
+section.list {
     flex-direction: row;
     display: flex;
 }
 
-zutaten {
+section.zutaten {
     flex-basis: 50%;
 }
 
-utensilien {
+section.utensilien {
     flex-basis: 50%;
 }
