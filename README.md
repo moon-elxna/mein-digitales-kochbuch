@@ -1,10 +1,5 @@
 # mein-digitales-kochbuch
-update github:
-git add .
-git commit -m "Änderung"
-git push origin main
-
-wo brauche ich javascript:
+wo brauche ich auch noch javascript:
 - teilen button + anzeige das link kopiert wurde
 - anzeigen von weitere
 - template für rezepte eintränge hinzufügen erstellen
